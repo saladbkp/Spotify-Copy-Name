@@ -1,0 +1,1 @@
+start cmd.exe /c "lyricstify start --romanize --romanization-provider gcloud --translate-to en --sync-type autoplay --highlight-markup --------"

@@ -67,3 +67,7 @@ void CopyToClipboard(const wstring& text)
 2. Play a song
 3. Run SpotifyTool.exe
 4. Find a box Ctrl + V 
+
+## lyricstify
+run spotly.bat for lyrics + romanji
+Any update refer this https://github.com/lyricstify/lyricstify
